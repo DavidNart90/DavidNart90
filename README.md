@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidNart90
-- 👀 I’m interested in Website Development, Data Science, Machine Learning
+- 👀 I am a Data Scientist Intrested in Website Development, Data Science, Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
